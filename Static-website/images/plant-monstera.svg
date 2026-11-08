@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Monstera leaf in a pot"><rect width="400" height="300" fill="#E4EDF2"/>
+<path d="M150 300h100l-12-70h-76z" fill="#F2C94C"/>
+<path d="M200 230C120 220 90 150 120 90c60 0 100 60 80 140z" fill="#2F5D3A"/>
+<path d="M200 230C280 220 310 150 280 90c-60 0-100 60-80 140z" fill="#6BA368"/>
+<path d="M200 230V70" stroke="#16251C" stroke-width="5"/>
+<circle cx="150" cy="150" r="9" fill="#E4EDF2"/><circle cx="250" cy="150" r="9" fill="#E4EDF2"/></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460" role="img" aria-label="Illustration of potted plants on a shelf">
+<rect width="600" height="460" fill="#DCE8D5"/>
+<circle cx="470" cy="110" r="60" fill="#F2C94C"/>
+<rect x="40" y="380" width="520" height="14" rx="4" fill="#16251C"/>
+<path d="M120 380h90l-10-90h-70z" fill="#2F5D3A"/>
+<path d="M165 290C120 240 110 190 150 140c30 40 40 90 15 150z" fill="#6BA368"/>
+<path d="M165 290C200 230 240 210 270 220c-10 40-50 70-105 70z" fill="#4C8A55"/>
+<path d="M300 380h100l-12-120h-76z" fill="#C9B8E8"/>
+<path d="M350 260c-50-40-60-100-20-150 40 50 45 100 20 150z" fill="#6BA368"/>
+<path d="M350 260c30-50 80-70 120-55-15 45-60 65-120 55z" fill="#2F5D3A"/>
+<path d="M430 380h70l-8-60h-54z" fill="#F2C94C"/>
+<circle cx="465" cy="290" r="22" fill="#6BA368"/><circle cx="445" cy="305" r="18" fill="#4C8A55"/><circle cx="485" cy="306" r="18" fill="#4C8A55"/>
+</svg>

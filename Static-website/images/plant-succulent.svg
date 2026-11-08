@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Succulent in a pot"><rect width="400" height="300" fill="#F6F0DA"/>
+<path d="M150 300h100l-10-70h-80z" fill="#C9B8E8"/>
+<ellipse cx="200" cy="200" rx="30" ry="50" fill="#4C8A55"/>
+<ellipse cx="160" cy="215" rx="22" ry="45" fill="#6BA368" transform="rotate(-35 160 215)"/>
+<ellipse cx="240" cy="215" rx="22" ry="45" fill="#6BA368" transform="rotate(35 240 215)"/>
+<ellipse cx="125" cy="235" rx="18" ry="38" fill="#2F5D3A" transform="rotate(-65 125 235)"/>
+<ellipse cx="275" cy="235" rx="18" ry="38" fill="#2F5D3A" transform="rotate(65 275 235)"/></svg>

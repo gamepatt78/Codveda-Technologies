@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact | Fernhill Plant Studio</title>
+<meta name="description" content="Get in touch with Fernhill Plant Studio.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="logo" href="index.html">Fernhill Plant Studio</a>
+    <nav aria-label="Main">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html" aria-current="page">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="page-title"><div class="container"><h1>Contact us</h1></div></section>
+  <section class="section">
+    <div class="container contact-grid">
+      <div>
+        <h2>Send us a message</h2>
+        <form action="mailto:hello@fernhill.example" method="post" enctype="text/plain">
+          <label for="name">Your name</label>
+          <input id="name" name="name" type="text" required>
+          <label for="email">Email address</label>
+          <input id="email" name="email" type="email" required>
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+          <button class="btn" type="submit">Send message</button>
+        </form>
+      </div>
+      <div>
+        <h2>Visit the studio</h2>
+        <address>
+          <p>12 Greenhouse Lane<br>Your City, 000000</p>
+          <p>Email: <a href="mailto:hello@fernhill.example">hello@fernhill.example</a></p>
+          <p>Open Tuesday to Sunday, 10am to 6pm</p>
+        </address>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2026 Fernhill Plant Studio. All rights reserved.</p>
+    <p>Questions? <a href="contact.html">Contact us</a></p>
+  </div>
+</footer>
+</body>
+</html>
